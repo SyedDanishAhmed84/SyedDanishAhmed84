@@ -16,7 +16,7 @@
 <div style="padding: 20px; background: #ffffff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 20px 0;">
   <h2 style="font-family: 'Arial', sans-serif; color: #2c3e50; text-align: center;">About Me</h2>
   <p style="font-size: 16px; color: #34495e; line-height: 1.6; text-align: center;">
- I'm currently studying Computer Engineering at UIT University. I’m passionate about <strong>Python, <strong> AI, machine learning <strong>, and Streamlit. As a core member of GDG OC UITU, I work on real-world projects and continuously explore new technologies. I'm currently exploring computer vision, contributing to open-source projects, and collaborating with tech communities. I'm also actively working on improving my <strong> data analysis <strong> and <strong> data science <strong> skills.
+ I'm currently studying Computer Engineering at UIT University. I’m passionate about <strong>Python, <strong> AI, machine learning <strong>, and Streamlit. As a core member of GDG0C UITU, I actively collaborate with tech communities. I work on real-world projects and continuously explore new technologies. I'm currently exploring computer vision, contributing to open-source projects. I'm also actively working on improving my <strong> data analysis <strong> and <strong> data science <strong> skills.
   </p>
 </div>
 
