@@ -61,6 +61,9 @@
 <div style="padding: 20px; background: #ffffff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 20px 0;">
   <h2 style="font-family: 'Arial', sans-serif; color: #2c3e50; text-align: center;">Connect with Me</h2>
   <p style="font-size: 16px; color: #34495e; text-align: center;">
+    <a href="mailto:daniahmed758@gmail.com" style="text-decoration: none; margin: 0 10px;" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
     <a href="https://www.linkedin.com/in/syed-danish-ahmed-91a9a22b6/" style="text-decoration: none; margin: 0 10px;">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
