@@ -3,7 +3,8 @@
   <p style="font-size: 18px; color: #34495e;">
     Aspiring Computer Engineer | Python Developer | AI/Ml enthusiast
   </p>
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=20&duration=3000&pause=1000&color=007BFF&center=true&vCenter=true&width=500&lines=Building+Innovative+Software+Solutions;Passionate+About+Web+%26+Mobile+Apps;Exploring+AI+%26+Automation;Contributing+to+Open-Source" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&size=20&duration=3000&pause=1000&color=007BFF&center=true&vCenter=true&width=500&lines=Writing+Clean+Python+Code;Building+AI+%26+ML+Models;Exploring+Data+Science+Projects;Visualizing+Insights+with+Python;Passionate+About+Machine+Learning" alt="Typing SVG" />
+
 </div>
 
 <div align="center" style="padding: 20px;">
