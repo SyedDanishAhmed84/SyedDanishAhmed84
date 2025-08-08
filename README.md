@@ -1,7 +1,7 @@
 <div align="center" style="padding: 20px; background: #f8f9fa; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <h1 style="font-family: 'Arial', sans-serif; color: #2c3e50;">Syed Danish Ahmed</h1>
   <p style="font-size: 18px; color: #34495e;">
-    Aspiring Computer Engineer | Python Developer | AI/Ml enthusiast
+    Aspiring Computer Engineer | Python Developer | AI/ML enthusiast
   </p>
 <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=20&duration=3000&pause=1000&color=007BFF&center=true&vCenter=true&width=500&lines=Writing+Clean+Python+Code;Building+AI+%26+ML+Models;Exploring+Data+Science+Projects;Visualizing+Insights+with+Python;Passionate+About+Machine+Learning" alt="Typing SVG" />
 
