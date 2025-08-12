@@ -6,7 +6,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=20&duration=3000&pause=1000&color=007BFF&center=true&vCenter=true&width=500&lines=Writing+Clean+Python+Code;Building+AI+%26+ML+Models;Exploring+Data+Science+Projects;Visualizing+Insights+with+Python;Passionate+About+Machine+Learning" alt="Typing SVG" />
 
 </div>
-
 <div align="center" style="padding: 20px;">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="300" style="border-radius: 8px;" />
 </div>
