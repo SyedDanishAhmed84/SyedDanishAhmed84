@@ -8,7 +8,6 @@
 <div align="center" style="padding: 20px;">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="300" style="border-radius: 8px;" />
 </div>
-
 ---
 
 <div style="padding: 20px; background: #ffffff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 20px 0;">
